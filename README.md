@@ -6,6 +6,9 @@ Below is a screenshot of the Arduino IDE showing the selected ESP32 board and po
 
 <img width="766" alt="스크린샷 2025-05-10 오전 12 04 31" src="https://github.com/user-attachments/assets/738627f0-2d93-4421-ac87-eee4551b4eea" />
 
+<img width="1132" alt="스크린샷 2025-05-10 오전 12 35 10" src="https://github.com/user-attachments/assets/3d762152-e097-48f7-8da7-88f8305f67eb" />
+
+
 ## 2. ESP32 Blinking LED
 Below is the ESP32 board with the blinking LED:
 
